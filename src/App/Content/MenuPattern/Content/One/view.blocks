@@ -1,0 +1,16 @@
+One View
+is together
+  Vertical
+  flexGrow 1 
+  flexShrink 1
+  flexBasis auto
+  overflowY auto
+  paddingLeft 32
+  paddingRight 32
+  paddingTop 32
+  paddingBottom 32
+  opacity 1
+  when <isBefore
+  opacity 0 easeOut
+    Subtitle
+    text One

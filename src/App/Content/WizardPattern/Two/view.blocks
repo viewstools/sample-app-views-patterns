@@ -1,0 +1,17 @@
+Two View
+is together
+  Content
+  Horizontal
+  justifyContent spaceBetween
+  paddingLeft 32
+  paddingRight 32
+  paddingBottom 32
+  opacity 1
+  translateY 0
+  when <isBefore
+  opacity 0 easeOut
+  translateY 16 easeOut
+    ActionBack
+    ExitAction  
+    ActionNext
+  

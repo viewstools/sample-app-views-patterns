@@ -1,0 +1,13 @@
+BackAction View
+is together
+  ButtonLabelHighlight
+  onClick <setFlowTo /App/Menu
+  alignSelf center
+  justifyContent center
+    Label
+    color #1e1e1e
+    fontSize 14
+    text Hover over me
+    Tooltip
+    flowNo <!isHovered
+    flowContent <isHovered

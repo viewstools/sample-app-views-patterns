@@ -1,0 +1,21 @@
+SubMenuTab View
+  Vertical
+  paddingLeft < 0
+  paddingRight < 48
+  paddingBottom 8
+  paddingTop 8
+  onClick <
+    Subtitle
+    color < rgba(255,255,255,0.7)
+    text < Recent
+    when <isSelected
+    color rgba(255,255,255,1)
+    Vertical
+    marginTop 8
+    height 3
+    width 16
+    backgroundColor < rgba(0,173,87, 0)
+    when <isHovered
+    backgroundColor rgba(255,255,255, 0.7) linear
+    when <isSelected
+    backgroundColor rgba(0,207,104, 1) linear

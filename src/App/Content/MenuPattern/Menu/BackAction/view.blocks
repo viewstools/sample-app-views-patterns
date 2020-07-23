@@ -1,0 +1,5 @@
+BackAction View
+is together
+  SubMenuTab
+  onClick <setFlowTo /App/Menu
+  text Back

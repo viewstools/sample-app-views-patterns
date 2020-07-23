@@ -1,0 +1,28 @@
+ButtonLabelHighlight View
+  Horizontal
+  onClick <
+  alignItems center
+  alignSelf < 
+  justifyContent < flexStart
+  borderBottomLeftRadius 4
+  borderBottomRightRadius 4
+  borderTopLeftRadius 4
+  borderTopRightRadius 4
+  backgroundColor < rgba(255,255,255,0.2)
+  borderWidth 1
+  borderColor transparent
+  borderStyle solid
+  height < auto
+  width < auto
+  paddingBottom 13
+  paddingLeft 24
+  paddingRight 24
+  paddingTop 13
+  marginRight < 0
+  marginLeft < 0
+  marginTop < 0
+  marginBottom < 0
+  when <isHovered
+  backgroundColor #0bfd89 linear duration 100
+    Children
+    

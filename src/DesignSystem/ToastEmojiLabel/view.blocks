@@ -1,0 +1,28 @@
+ToastEmojiLabel View
+  Horizontal
+  onClick <
+  alignItems center
+  alignSelf < 
+  justifyContent < center
+  borderBottomLeftRadius 8
+  borderBottomRightRadius 8
+  borderTopLeftRadius 8
+  borderTopRightRadius 8
+  backgroundColor < #1e1e1e
+  borderColor #fdc844
+  borderStyle solid
+  borderWidth 1
+  height < 56
+  width < 250
+  shadowBlur 16
+  shadowColor rgba(0, 0, 0, 0.3)
+  shadowOffsetX 0
+  shadowOffsetY 8
+  shadowSpread 0
+    Text
+    fontSize 24
+    marginRight 16
+    text <emoji 
+    Label
+    color #fdc844
+    text Success! Here's your toast

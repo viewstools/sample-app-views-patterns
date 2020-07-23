@@ -1,0 +1,17 @@
+ArrowLeft Block
+  Svg
+  alignSelf < auto
+  marginTop < 0
+  marginBottom < 0
+  marginLeft < 0
+  marginRight < 0
+  opacity < 1
+  width < 64
+  height < 64
+  viewBox 0 0 64 64
+    SvgPath
+    fill < none
+    stroke < #4D4D4D
+    strokeWidth 8
+    strokeMiterlimit 10
+    d M45.3 58l-26-26 26-26

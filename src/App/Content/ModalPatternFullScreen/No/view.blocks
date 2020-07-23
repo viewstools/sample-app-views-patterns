@@ -1,0 +1,17 @@
+No View
+is together
+# Remove this button. No View should be empty.
+  Vertical
+  alignSelf center
+  onClick <setFlowTo /App/Menu
+    Text
+    color rgb(0, 162, 255)
+    fontFamily WonderUnitSans
+    fontSize 14
+    letterSpacing 0.3
+    fontWeight 300
+    text Back
+    textDecoration none
+    when <isHovered
+    color rgb(0, 191, 255)
+

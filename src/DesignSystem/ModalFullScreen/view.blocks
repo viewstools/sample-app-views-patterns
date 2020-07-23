@@ -1,0 +1,42 @@
+ModalFullScreen View
+  Vertical
+  alignItems center
+  backgroundColor rgba(0, 0, 0, 0.8)
+  bottom 0
+  isModal true
+  isOpen true
+  justifyContent center
+  left 0
+  onClick <
+  position fixed
+  right 0
+  top 0
+  zIndex 1000
+  overflowY hidden
+  when <isBefore
+  backgroundColor rgba(0, 0, 0, 0) linear
+    ModalContent Vertical
+    backgroundColor rgba(255,255,255,0.1)
+    alignItems flexStart
+    borderBottomLeftRadius 15
+    borderBottomRightRadius 15
+    borderTopLeftRadius 15
+    borderTopRightRadius 15
+    height < 90%
+    paddingBottom 50
+    paddingLeft 50
+    paddingRight 50
+    paddingTop 50
+    shadowBlur 30
+    shadowColor rgba(0, 0, 0, 1)
+    shadowOffsetX 0
+    shadowOffsetY 10
+    shadowSpread 0
+    overflowY < auto
+    width 800
+    opacity 1
+    translateY 0
+    when <isBefore
+    opacity 0 linear duration 100 delay 100
+    translateY 20 easeOut delay 100
+      Children

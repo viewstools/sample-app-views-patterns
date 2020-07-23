@@ -1,0 +1,5 @@
+ExitAction View
+is together
+  ButtonTextIcon
+  onClick <setFlowTo /App/Menu
+  text Exit

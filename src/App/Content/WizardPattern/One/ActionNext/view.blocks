@@ -1,0 +1,10 @@
+ActionNext View
+is together
+  ButtonIconSquare
+  width 42
+  height 42
+  onClick <setFlowTo /App/Content/WizardPattern/Two
+    ArrowRight
+    width 20
+    height 20
+    stroke rgba(255,255,255,0.8)

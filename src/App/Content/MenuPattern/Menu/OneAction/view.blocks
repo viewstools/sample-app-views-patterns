@@ -1,0 +1,5 @@
+OneAction View
+is together
+  SubMenuTab
+  onClick <setFlowTo /App/Content/MenuPattern/Content/One
+  text One

@@ -1,0 +1,17 @@
+Content View
+is together
+  Vertical
+  position fixed
+  top 32
+  right 30
+  opacity 1
+  translateX 0
+  when <isBefore
+  opacity 0 easeOut
+  translateX 32 easeOut
+    ToastEmojiLabel
+    text Success! Here's your toast
+    emoji 🥪
+  Timeout
+  onTimeout <setFlowTo ../No
+  delay 3000

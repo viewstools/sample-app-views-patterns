@@ -1,0 +1,19 @@
+ModalHeader View
+  Horizontal
+  alignItems center
+  justifyContent spaceBetween
+  marginBottom 16
+  width 100%
+  opacity 1
+  when <isBefore
+  opacity 0 linear duration 100
+    Children
+    ButtonIconSquare
+    width 40
+    height 40
+    onClick <onClickClose
+      XIcon
+      width 20
+      stroke rgb(111,111,111)
+      when <isHovered
+      stroke rgb(255, 255, 255)

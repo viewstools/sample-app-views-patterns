@@ -1,0 +1,9 @@
+PopupAction View
+is together
+  ButtonTextIcon
+  onClick <setFlowTo ../Popup/Content
+  text Click me to make a toast
+  color rgb(0, 162, 255)
+  fontSize 14
+  marginLeft 16
+  justifyContent center

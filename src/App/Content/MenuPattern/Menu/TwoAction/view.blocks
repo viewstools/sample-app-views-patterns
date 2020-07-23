@@ -1,0 +1,6 @@
+TwoAction View
+is together
+  SubMenuTab
+  paddingRight < 0
+  onClick <setFlowTo /App/Content/MenuPattern/Content/Two
+  text Two

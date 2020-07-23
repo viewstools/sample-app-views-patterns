@@ -1,0 +1,8 @@
+Content View
+is together
+  ModalFullScreen
+  onClick <setFlowTo ../No
+    ModalHeader
+    onClickClose <setFlowTo ../No
+      Subtitle
+      text Close Me

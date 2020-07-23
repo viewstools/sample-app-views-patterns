@@ -1,0 +1,8 @@
+ModalPatternPopup View
+is together
+  Popup
+  Horizontal
+  alignSelf center
+    BackAction
+    PopupAction
+    

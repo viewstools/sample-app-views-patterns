@@ -1,0 +1,15 @@
+App View
+is separate
+  Vertical
+  flexBasis auto
+  flexGrow 1
+  flexShrink 1
+  overflowY hidden
+  justifyContent center
+  backgroundColor #1e1e1e
+    Vertical
+    width 360
+    alignSelf center
+      Menu
+    Content
+  
